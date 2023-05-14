@@ -1,0 +1,11 @@
+﻿{
+	"ConnectionString": "Data Source=DESKTOP-Q8V32DA\\SQL2014;Initial Catalog=SmartERPStandard;User Id=softgo;Password=A271185b;TrustServerCertificate=True;MultipleActiveResultSets=true"
+}
+
+//{
+//	"ConnectionString": "Data Source=.;initial catalog =ERPBK; integrated security = true;"
+//}
+
+//{
+//  "ConnectionString": "Data Source=.;Initial Catalog=SmartERPStandard;User Id=softgo;Password=A271185b;TrustServerCertificate=True;MultipleActiveResultSets=true"
+//}
